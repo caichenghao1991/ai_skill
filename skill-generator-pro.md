@@ -2,13 +2,13 @@
 name: skill-generator-pro
 version: 1.0.0
 description: 智能AI Skill生成器，用于分析用户需求、识别模糊信息、提供优化建议，并生成适用于Claude、GPT、DeepSeek等多个平台的通用skill文件
-author: [请填写作者名称]
-platforms: [claude, gpt, deepseek, gemini, qwen, [请添加其他支持的平台]]
+author: [Chenghao]
+platforms: [claude, gpt, deepseek, gemini, [请添加其他支持的平台]]
 tags: [skill-generator, meta-skill, development-tool, ai-tool, [请添加其他相关标签]]
 category: [development]
 license: [MIT]
-created: [2024-01-15]
-updated: [2024-01-15]
+created: [2026-08-18]
+updated: [2026-08-18]
 ---
 
 # Skill Generator Pro - AI Skill创建助手
@@ -30,7 +30,7 @@ updated: [2024-01-15]
 ## 📖 使用指南
 
 ### 基本用法
-[用户只需描述想要创建的skill功能，系统会自动分析需求并提出澄清问题。用户回答这些问题后，系统会生成完整的skill文件。例如：用户说"我想要一个管理待办事项的skill"，系统会询问待办事项的属性、是否需要提醒、数据存储方式等问题，然后生成完整的skill文件]
+[用户只需描述想要创建的skill功能，系统会自动分析需求并提出澄清问题。用户回答这些问题后，系统会生成完整的skill文件。例如：用户说"我想要一个管理待办事项的skill"，系统会调用 skill-generator-pro 询问待办事项的属性、是否需要提醒、数据存储方式等问题，然后生成完整的skill文件]
 
 ### 高级功能
 [支持批量生成多个skill文件，支持自定义模板，支持从现有skill中学习模式，支持导出为不同平台的特定格式，支持版本对比和回滚功能]
@@ -67,8 +67,8 @@ updated: [2024-01-15]
 
 ## 📝 版本信息
 - **版本**：[1.0.0]
-- **创建日期**：[2024-01-15]
-- **最后更新**：[2024-01-15]
+- **创建日期**：[2026-08-18]
+- **最后更新**：[2026-08-18]
 
 ## 💡 使用示例
 
