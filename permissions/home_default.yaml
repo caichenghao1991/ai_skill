@@ -1,0 +1,11 @@
+name: home_default
+description: 家庭默认权限组合（含完整目录操作权限）
+created: 2026-08-18
+allowed:
+  - postgres:read
+  - kubectl:read
+  - api:call
+  - file:E:\deepseek:read
+  - file:E:\deepseek:write
+  - file:E:\deepseek:delete
+  - file:E:\deepseek:update

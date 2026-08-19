@@ -1,0 +1,9 @@
+name: work_default
+description: 工作默认权限组合
+created: 2026-08-18
+allowed:
+  - postgres:read
+  - kubectl:read
+  - api:call
+  - directory:/Users/checai2/SSG:read
+denied: []
